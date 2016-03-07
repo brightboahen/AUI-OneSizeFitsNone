@@ -1,0 +1,9 @@
+{
+  "firebase": "AUI-OneSizeFitsNone",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
